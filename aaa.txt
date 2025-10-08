@@ -1,3 +1,7 @@
 aaa
 bbb
+<<<<<<< HEAD
 AAA
+=======
+BBB
+>>>>>>> eb7da89 (add words: BBB)
